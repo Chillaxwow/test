@@ -21,7 +21,7 @@ body, canvas, div {
   -webkit-user-select: none;
   -ms-user-select: none;
   -khtml-user-select: none;
-  -webkit-tap-highlight-color: rgba(34, 155, 183, 255);
+  -webkit-tap-highlight-color: rgba(34, 155, 183);
 }
 
 /* Remove spin of input type number */
@@ -33,7 +33,7 @@ input::-webkit-inner-spin-button {
 }
 
 canvas {
-  background-color: rgba(34, 155, 183, 255);
+  background-color: rgba(34, 155, 183);
 }
 
 /* #GameDiv {
