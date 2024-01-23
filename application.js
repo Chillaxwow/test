@@ -55,7 +55,6 @@ System.register([], function (_export, _context) {
             });
           }
         }]);
-
         return Application;
       }());
     }
